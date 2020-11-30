@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1593929565 source:c:\users\igorb\onedrive\Área de trabalho\fatec\2º semestre\linguagem de programação\projeto\conta\main.c
+	<stdio.h>
+	<stdlib.h>
+
